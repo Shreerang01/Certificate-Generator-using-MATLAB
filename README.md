@@ -13,8 +13,7 @@ Through its intuitive workflow and efficient certificate creation process, the C
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![MATLAB_0zcQQwh3Uy](https://github.com/Shreerang01/Certificate-Generator-using-MATLAB/assets/113919844/b8ef58da-9fde-4d29-a7a6-b531cfcaee1a)
 
 ## Table of Contents
 
